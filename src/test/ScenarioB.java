@@ -120,7 +120,7 @@ public class ScenarioB {
 			System.out.println("Flipkart has better price by "+difference);
 		}else {
 			double difference =  creamPriceOnFlipkart - creamPriceOnAmazon;
-			System.out.println("Flipkart has better price by "+difference);
+			System.out.println("Amazon has better price by "+difference);
 		}
 		
 		 
