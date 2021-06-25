@@ -130,6 +130,8 @@ public class ScenarioB {
 			double difference =  finalFlipKartPrice - creamPriceOnAmazon;
 			System.out.println("Amazon has better price by "+difference);
 		}
+		
+		driver.quit();
 	
 	}
 
